@@ -63,7 +63,7 @@ orcid_id: 0000-0002-6776-1213
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Sarath_Menon6
+research_gate_profile: Sarath_Menon6
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Menon
+  first_name: [Sarath]
 
   style: apa
   locale: en
