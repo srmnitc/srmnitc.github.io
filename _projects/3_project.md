@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: pyscal
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/pyscal_logo.png
+redirect: https://pyscal.org/en/latest/
 importance: 3
 category: work
 ---
