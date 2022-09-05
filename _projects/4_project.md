@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: pylammpsmpi
+description: pylammpsmpi is a python module for parallel implementation of LAMMPS from jupyter notebooks.
+img: assets/img/pyiron_logo.png
+redirect: https://github.com/pyiron/pylammpsmpi
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

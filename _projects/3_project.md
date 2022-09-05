@@ -1,9 +1,9 @@
 ---
 layout: page
-title: pyscal
-description: a project that redirects to another website
+title: pace
+description: Performant C++ implementation of the atomic cluster expansion that is suitable for use in large-scale atomistic simulations.
 img: assets/img/pyscal_logo.png
-redirect: https://pyscal.org/en/latest/
+redirect: https://github.com/ICAMS/lammps-user-pace
 importance: 3
 category: work
 ---

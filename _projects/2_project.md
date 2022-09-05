@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: calphy
+description: A Python library and command line interface for automated free energy calculations.
+img: assets/img/calphy_logo.png
+redirect: https://calphy.org
+importance: 3
 category: work
 ---
 

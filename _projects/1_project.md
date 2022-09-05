@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: pyscal
+description: pyscal is a python module for calculation of local atomic environment.
+img: assets/img/pyscal_logo.png
+redirect: https://pyscal.org/en/latest/
+importance: 3
 category: work
 ---
 
