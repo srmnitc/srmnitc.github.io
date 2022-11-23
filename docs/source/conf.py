@@ -15,10 +15,6 @@ def skip(app, what, name, obj, would_skip, options):
 def setup(app):
     app.connect('autodoc-skip-member', skip)
 
-extensions = []
-
-templates_path = ['_templates']
-exclude_patterns = []
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -43,18 +39,29 @@ extensions = [
 
 html_theme = 'furo'
 
-#html_logo = "../_static/calphy_logo.png"
+
 #html_theme_options = {
 #    'logo_only' : True,
 #    'canonical_url' : 'https://calphy.readthedocs.io/',
 #}
 
-html_extra_path = ['../_static' ]
+html_extra_path = ['_static/']
+html_logo = "_static/logo_light.png"
+
 source_suffix = ['.rst', '.md']
 exclude_patterns = []
+templates_path = ["_templates"]
 
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
-html_static_path = ['_static']
+html_theme_options = {
+    # Disable showing the sidebar. Defaults to 'false'
+    'nosidebar': True,
+    "sidebar_hide_name": True,
+    #"light_logo": "logo_light.png",
+    #"dark_logo": "logo_dark.png",
+}
+
+
+#html_logo = "_static/logo.png"
+
+
