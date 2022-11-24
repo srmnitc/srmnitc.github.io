@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'm2r2',
     'sphinx_markdown_tables',
-    'nbsphinx',
+    #'nbsphinx',
 ]
 
 html_theme = 'furo'
