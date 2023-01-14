@@ -1,5 +1,16 @@
 
-## Publications
+# ‎
+
+<p style="width:70%; font-size:40px; text-align:left; color:#757575">Publications</p>
+
+
+```{dropdown} Nonclassical Nucleation of Zinc Oxide from a Physically Motivated Machine-Learning Approach <br> J. Goniakowski, S. Menon, G. Laurens, and J. Lam <br> [The Journal of Physical Chemistry C (126) 40, 2022](https://doi.org/10.1021/acs.jpcc.2c06341) <br> <p style="width:70%; font-size:40px; text-align:left; color:#757575">Sarath Menon</p>
+
+:open:
+
+Dropdown content
+```
+
 
 - **Nonclassical Nucleation of Zinc Oxide from a Physically Motivated Machine-Learning Approach**    
   J. Goniakowski, S. Menon, G. Laurens, and J. Lam    

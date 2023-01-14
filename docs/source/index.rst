@@ -1,6 +1,8 @@
-.. mdinclude:: page.md
+
+.. include:: page.md
+   :parser: myst_parser.sphinx_
 
 .. toctree::
    :hidden:
    
-   publications
+   Publications <publications>

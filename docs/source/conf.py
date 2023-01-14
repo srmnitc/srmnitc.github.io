@@ -32,9 +32,21 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.napoleon',
-    'm2r2',
-    'sphinx_markdown_tables',
+    #'m2r2',
+    #'sphinx_markdown_tables',
     #'nbsphinx',
+    #"html_image", 
+    #"html_admonition", 
+    #"colon_fence", 
+    "sphinx.ext.extlinks", 
+    "sphinx.ext.intersphinx", 
+    "sphinx.ext.todo", 
+    "sphinx.ext.viewcode", 
+    #"furo.sphinxext", 
+    "myst_parser", 
+    "sphinx_copybutton", 
+    "sphinx_design", 
+    "sphinx_inline_tabs"
 ]
 
 html_theme = 'furo'

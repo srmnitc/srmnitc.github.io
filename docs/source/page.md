@@ -1,12 +1,14 @@
 
-
-
+<br>
+<br>
+<br>
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Sarath Menon</p>
 
-.. image:: avatar.jpg
+```{image} avatar.jpg
    :align: right
    :height: 200
+```
 
 I'm Sarath Menon, currently a research associate at the <a href="https://www.mpie.de/2281/en">Max-Planck-Institut für Eisenforschung</a>. I work in the department of <a href="https://www.mpie.de/CM">Computational Materials Design</a> under <a href="https://www.mpie.de/person/43010/2763386">Prof. J. Neugebauer</a>. I work on developing software and workflows to enable reproducible research in Materials Science as part of the <a href="https://nfdi-matwerk.de/">NFDI-MatWerk</a> consortium. In addition to a strong interest in writing scientific programs using C++ and Python, my research includes the development and testing of machine learning interatomic potentials, with a focus on the investigation of thermodynamic quantities from an atomistic scale.
 
