@@ -1,5 +1,20 @@
 
-## Publications
+# ‎
+
+<style type="text/css">
+p {
+   margin: 2px 0;
+}
+</style>
+
+<p style="width:70%; font-size:40px; text-align:left; color:#757575">Publications</p>
+
+
+```{dropdown} <p style="font-size:18px; font-family:Arial, sans-serif;">Nonclassical Nucleation of Zinc Oxide from a Physically Motivated Machine-Learning Approach</p> <p style="font-size:14px;font-family:Arial, sans-serif;"> J. Goniakowski, S. Menon, G. Laurens, and J. Lam </p> <a href=https://doi.org/10.1021/acs.jpcc.2c06341 style="font-size:10px">The Journal of Physical Chemistry C (126) 40, 2022 </a> 
+
+Observing nonclassical nucleation pathways remains challenging in simulations of complex materials with technological interests. This is because it requires very accurate force fields that can capture the whole complexity of their underlying interatomic interactions and an advanced structural analysis able to discriminate between competing crystalline phases. Here, we first report the construction and particularly thorough validation of a machine-learning force field for zinc oxide interactions using the Physical LassoLars Interaction Potentials approach which allows us to be predictive even for high-temperature dynamical systems such as ZnO melt. Then, we carried out several types of crystallization simulations and followed the formation of ZnO crystals with atomistic precision. Our results, which were analyzed using a data-driven approach based on bond order parameters, demonstrate the presence of both prenucleation clusters and two-step nucleation scenarios, thus retrieving seminal predictions of nonclassical nucleation pathways made on much simpler models. Dedicated calculations of high-temperature ZnO free energy within a newly developed automated nonequilibrium thermodynamic integration method revealed the existence of a thermodynamic bias for the predicted nonclassical nucleation scenarios.
+```
+
 
 - **Nonclassical Nucleation of Zinc Oxide from a Physically Motivated Machine-Learning Approach**    
   J. Goniakowski, S. Menon, G. Laurens, and J. Lam    
