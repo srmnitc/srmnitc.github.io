@@ -15,25 +15,25 @@ I'm Sarath Menon, currently a research associate at the <a href="https://www.mpi
 <table border="0">
  <tr>
    <td>
-      <a href="Your facebook link"><i class="fa fa-envelope"></i></a>
+      <a href="mailto:mail@sarathmenon.me"><i class="fa fa-envelope"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-location-dot"></i></a>
+      <a href="https://www.mpie.de/person/122342/3079071"><i class="fa fa-location-dot"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-brands fa-github"></i></a>
+      <a href="https://github.com/srmnitc"><i class="fa fa-brands fa-github"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-graduation-cap"></i></a>
+      <a href="https://scholar.google.com/citations?user=kYpQVuMAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-brands fa-researchgate"></i></a>
+      <a href="https://www.researchgate.net/profile/Sarath-Menon"><i class="fa fa-brands fa-researchgate"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-brands fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-6776-1213"><i class="fa fa-brands fa-orcid"></i></a>
    </td>
    <td>
-      <a href="Your facebook link"><i class="fa fa-brands fa-linkedin"></i></a>
+      <a href="www.linkedin.com/in/sarathrmenon"><i class="fa fa-brands fa-linkedin"></i></a>
    </td>
  </tr>
 </table>
@@ -67,7 +67,7 @@ table {
   color: #757575;
 }
 .fa-github {
-  background: white;
+  background: transparent;
   color: #757575;
 }
 .fa-location-dot {
