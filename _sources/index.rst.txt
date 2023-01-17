@@ -6,3 +6,4 @@
    :hidden:
    
    Publications <publications/publications>
+   Education and Experience <education/education>
