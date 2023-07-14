@@ -49,7 +49,8 @@ extensions = [
     "sphinx_inline_tabs"
 ]
 
-html_theme = 'furo'
+#html_theme = 'furo'
+html_theme = 'pydata_sphinx_theme'
 
 
 #html_theme_options = {

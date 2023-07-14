@@ -7,3 +7,5 @@ sphinx_inline_tabs
 sphinx_copybutton
 sphinx_design
 docutils==0.19
+pydata-sphinx-theme
+
