@@ -51,7 +51,7 @@ extensions = [
 
 #html_theme = 'furo'
 html_theme = 'pydata_sphinx_theme'
-
+html_show_sourcelink = False
 
 #html_theme_options = {
 #    'logo_only' : True,
@@ -70,6 +70,7 @@ html_theme_options = {
     # Disable showing the sidebar. Defaults to 'false'
     'nosidebar': True,
     "sidebar_hide_name": True,
+    "show_prev_next": False,
     #"light_logo": "logo_light.png",
     #"dark_logo": "logo_dark.png",
 }
