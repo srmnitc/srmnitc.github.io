@@ -8,3 +8,4 @@
    Publications <publications/publications>
    Education and Experience <education/education>
    Software <software/software>
+   Outreach <outreach/outreach>
