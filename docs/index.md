@@ -6,7 +6,7 @@
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Sarath Menon</p>
 
-```{image} avatar.jpg
+```{image} _static/avatar.jpg
    :align: right
    :height: 200
 ```

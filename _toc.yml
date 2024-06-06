@@ -4,5 +4,5 @@
 format: jb-book
 root: docs/index.md
 chapters:
-  - file: docs/education.md
+  - file: docs/education/education.md
 
