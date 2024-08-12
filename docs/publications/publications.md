@@ -9,6 +9,9 @@ p {
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Publications</p>
 
+**Harvesting nucleating structures in nanoparticle crystallization: The example of gold, silver, and iron**  
+_A. France-Lanord, S. Menon, and J. Lam_  
+_[The Journal of Chemical Physics (161) 4, 2024](https://doi.org/10.1063/5.0200850)_ <br><br>
 
 **Nonclassical Nucleation of Zinc Oxide from a Physically Motivated Machine-Learning Approach**  
 _J. Goniakowski, S. Menon, G. Laurens, and J. Lam_  

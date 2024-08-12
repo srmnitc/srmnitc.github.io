@@ -48,9 +48,9 @@
   <th style='width: 5%;'> </th>
 <tr>
   <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pyscal-rdf </b></p>
-    <p style="text-align:justify;"> pyscal_rdf is a python tool for ontology-based creation, manipulation, and quering of structures. pyscal_rdf is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under activate development and could be unstable. </p>
-    <a href="https://github.com/pyscal/pyscal_rdf">Repository</a> &nbsp; | &nbsp;
+    <p style="width:70%; font-size:20px; text-align:left;"><b> atomRDF </b></p>
+    <p style="text-align:justify;"> atomRDF is a python tool for ontology-based creation, manipulation, and quering of structures. pyscal_rdf is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under activate development. </p>
+    <a href="https://github.com/pyscal/atomrdf">Repository</a> &nbsp; | &nbsp;
     <a href="https://rdf.pyscal.org/en/latest/">Docs</a> &nbsp; | &nbsp;
     <a href="https://github.com/Materials-Data-Science-and-Informatics/cmso-ontology">Ontology</a> &nbsp; | &nbsp;
     <a href="https://doi.org/10.5281/zenodo.8146527">Zenodo</a>
