@@ -3,6 +3,29 @@
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Workshops</p>
 
+*Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  
+_14 May 2024  &nbsp; | &nbsp; [Jožef Stefan Institute, Ljubljana, Slovenia](https://www.ijs.si/ijsw/JSI)_  
+
+The workshop was aimed at machine learning methods in materials science. An introduction to high throughput methods to generate DFT databases was introduced. Parametrisation of machine-learned interatomic potentials and using them for validation and calculation of thermodynamic quantities was demonstrated. <br>
+
+[Webpage](https://ml4ms.ijs.si/)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11545280)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/ML4MS-workshop)  &nbsp; | &nbsp; [Videos](https://video.arnes.si/watch/n3l3wrvtd9bx) <br><br>
+
+**DPG-Spring Meeting 2024: Creating and running automated workflows for materials science simulations**  
+_17 Mar 2024  &nbsp; | &nbsp; [TU Berlin](https://www.tu.berlin/)_  
+
+The workshop included introductory sessions on how to use pyiron, the workflow management tool. The sessions were focused on creating FAIR workflows, running DFT simulations, and calculating thermodynamic quantities. <br>
+
+[Webpage](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11616805)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/DPG-tutorial-2024) <br><br>
+
+
+**DPG-Spring Meeting 2024: Creating and running automated workflows for materials science simulations**  
+_17 Mar 2024  &nbsp; | &nbsp; [TU Berlin](https://www.tu.berlin/)_  
+
+The workshop included introductory sessions on how to use pyiron, the workflow management tool. The sessions were focused on creating FAIR workflows, running DFT simulations, and calculating thermodynamic quantities. <br>
+
+[Webpage](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11616805)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/DPG-tutorial-2024) <br><br>
+
+
 **DGM-Nachwuchsforum 2023: Session on Data analysis and workflows in Materials science**  
 _24-26 Apr 2023  &nbsp; | &nbsp; [Kassel University](https://www.uni-kassel.de/uni/)_  
 
@@ -17,9 +40,14 @@ _09-10 Jun 2022  &nbsp; | &nbsp; [Ruhr-University Bochum](https://www.ruhr-uni-b
 The workshop focused on hands-on classes and tutorials covering the complete process from high-throughput electronic structure calculations to the computation of phase diagrams using pyiron. Day one provided an in-depth look at automated workflows for DFT data generation. Day two dove into the parameterization and validation of interatomic potentials using DFT reference data. Finally, on day three, the methods and tools for computing thermodynamic properties and phase diagrams were introduced.
 The videos of my tutorials are available [here](http://pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html). <br>
 
-[Webpage](https://web.archive.org/web/20230819214646/https://potentials.rub.de/2022/index.php)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.8145186)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron/potentials-workshop-2022)  &nbsp; | &nbsp; [Documentation](http://pyiron.org/potentials-workshop-2022/intro.html) <br><br>
+[Webpage](https://web.archive.org/web/20230819214646/https://potentials.rub.de/2022/index.php)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.8145186)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron/potentials-workshop-2022)  &nbsp; | &nbsp; [Documentation](http://workshop.pyiron.org/potentials-workshop-2022/intro.html) &nbsp; | &nbsp; [Videos](https://workshop.pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html) <br><br>
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Teaching</p>
+
+**Application and Implementation of Electronic Structure Methods**  
+_05-07 Feb 2024  &nbsp; | &nbsp; [Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de)_ 
+
+Co-lecturer with Prof. Neugebauer. Sessions aimed at developing python code to solve Schrodinger equation for a number of example systems in 1, 2, and 3 dimensions. Additionally managed a JupyterHub instance set up for the course.<br><br>
 
 **Introduction to Quantum Mechanics in Solid-State Physics**  
 _Oct 2022 - Apr 2023  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_ 
