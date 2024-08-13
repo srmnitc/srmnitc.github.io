@@ -3,7 +3,7 @@
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Workshops</p>
 
-*Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  
+**Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  
 _14 May 2024  &nbsp; | &nbsp; [Jožef Stefan Institute, Ljubljana, Slovenia](https://www.ijs.si/ijsw/JSI)_  
 
 The workshop was aimed at machine learning methods in materials science. An introduction to high throughput methods to generate DFT databases was introduced. Parametrisation of machine-learned interatomic potentials and using them for validation and calculation of thermodynamic quantities was demonstrated. <br>

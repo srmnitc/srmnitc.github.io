@@ -5,4 +5,10 @@ format: jb-book
 root: docs/index.md
 chapters:
   - file: docs/education/education.md
-
+    title: Education and Experience
+  - file: docs/publications/publications.md
+    title: Publications
+  - file: docs/software/software.md
+    title: Software
+  - file: docs/outreach/outreach.md
+    title: Outreach

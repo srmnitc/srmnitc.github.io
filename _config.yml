@@ -45,11 +45,12 @@ parse:
 sphinx:
   config:
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-    html_theme: pydata_sphinx_theme
+    #html_theme: pydata_sphinx_theme
+    html_theme: furo
     html_js_files:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
-    html_sidebars:
-      "**": []
+    #html_sidebars:
+    #  "**": []
     
   extra_extensions:
   - 'sphinx.ext.autodoc'
