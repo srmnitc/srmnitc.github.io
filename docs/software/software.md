@@ -15,7 +15,7 @@
   </td>
   <td> </td>
   <td>
-    <img src="https://pyscal.org/en/latest/_static/pyscal_logo1.png" width="100%" align="right">
+    <img src="https://pyscal.org/en/latest/_images/pyscal_v2_logo_1.png" width="100%" align="right">
   </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@
   </td>
   <td> </td>
   <td>
-    <img src="https://pyscal.org/en/latest/_static/pyscal_logo1.png" width="100%" align="right">
+    <img src="https://pyscal.org/en/latest/_images/pyscal_v3_logo_1.png" width="100%" align="right">
   </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@
   </td>
   <td> </td>
   <td>
-    <img src="https://rdf.pyscal.org/en/latest/_static/logo.png" width="100%" align="right">
+    <img src="https://atomrdf.pyscal.org/en/latest/_static/logo.png" width="100%" align="right">
   </td>
 </tr>
 </table>
