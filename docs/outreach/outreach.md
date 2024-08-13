@@ -23,14 +23,6 @@ The workshop included introductory sessions on how to use pyiron, the workflow m
 [Webpage](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11616805)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/DPG-tutorial-2024) <br><br>
 
 
-**DPG-Spring Meeting 2024: Creating and running automated workflows for materials science simulations**  
-_17 Mar 2024  &nbsp; | &nbsp; [TU Berlin](https://www.tu.berlin/)_  
-
-The workshop included introductory sessions on how to use pyiron, the workflow management tool. The sessions were focused on creating FAIR workflows, running DFT simulations, and calculating thermodynamic quantities. <br>
-
-[Webpage](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11616805)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/DPG-tutorial-2024) <br><br>
-
-
 **DGM-Nachwuchsforum 2023: Session on Data analysis and workflows in Materials science**  
 _24-26 Apr 2023  &nbsp; | &nbsp; [Kassel University](https://www.uni-kassel.de/uni/)_  
 
