@@ -10,6 +10,11 @@ The workshop was aimed at machine learning methods in materials science. An intr
 
 [Webpage](https://ml4ms.ijs.si/)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.11545280)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron-workshop/ML4MS-workshop)  &nbsp; | &nbsp; [Videos](https://video.arnes.si/watch/n3l3wrvtd9bx) <br><br>
 
+<iframe width="420" height="237"
+src="https://video.arnes.si/en/embed/n3l3wrvtd9bx">
+</iframe>
+
+
 **DPG-Spring Meeting 2024: Creating and running automated workflows for materials science simulations**  
 _17 Mar 2024  &nbsp; | &nbsp; [TU Berlin](https://www.tu.berlin/)_  
 
@@ -41,6 +46,11 @@ The workshop focused on hands-on classes and tutorials covering the complete pro
 The videos of my tutorials are available [here](http://pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html). <br>
 
 [Webpage](https://web.archive.org/web/20230819214646/https://potentials.rub.de/2022/index.php)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.8145186)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron/potentials-workshop-2022)  &nbsp; | &nbsp; [Documentation](http://workshop.pyiron.org/potentials-workshop-2022/intro.html) &nbsp; | &nbsp; [Videos](https://workshop.pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html) <br><br>
+
+
+<iframe width="420" height="237"
+src="https://www.youtube.com/embed/CESz9J_AJfw">
+</iframe>
 
 <p style="width:70%; font-size:40px; text-align:left; color:#757575">Teaching</p>
 
