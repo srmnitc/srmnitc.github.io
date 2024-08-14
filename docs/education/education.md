@@ -1,7 +1,7 @@
 
 # ‎
 
-### <p style="width:70%; font-size:40px; text-align:left; color:#757575">Education</p>
+### <p style="width:70%; text-align:left; color:#757575">Education</p>
 
 **2021: Doctor of Engineering**  
 _[Department of Mechanical Engineering](https://www.mb.rub.de/), [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/en)_ <br><br> 
@@ -15,7 +15,7 @@ _[ICAMS](https://www.icams.de/content/), [Ruhr Universität Bochum](https://www.
 _[National Institute of Technology Calicult](https://www.nitc.ac.in/)_ <br><br>  
 
 
-### <p style="width:70%; font-size:40px; text-align:left; color:#757575">Experience</p>
+### <p style="width:70%; text-align:left; color:#757575">Experience</p>
 
 **Research Associate (Feb 2021 - present)**  
 _[Computational Materials Design, Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de/CM)_  

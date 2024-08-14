@@ -1,7 +1,7 @@
 
 # ‎
 
-### <p style="width:70%; font-size:40px; text-align:left; color:#757575">Workshops</p>
+### <p style="width:70%; text-align:left; color:#757575">Workshops</p>
 
 **Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  
 _14 May 2024  &nbsp; | &nbsp; [Jožef Stefan Institute, Ljubljana, Slovenia](https://www.ijs.si/ijsw/JSI)_  
@@ -44,7 +44,7 @@ The videos of my tutorials are available [here](http://pyiron.org/potentials-wor
 src="https://www.youtube.com/embed/CESz9J_AJfw">
 </iframe>
 
-### <p style="width:70%; font-size:40px; text-align:left; color:#757575">Teaching</p>
+### <p style="width:70%; text-align:left; color:#757575">Teaching</p>
 
 **Application and Implementation of Electronic Structure Methods**  
 _05-07 Feb 2024  &nbsp; | &nbsp; [Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de)_ 
