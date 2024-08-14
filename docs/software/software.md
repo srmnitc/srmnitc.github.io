@@ -1,6 +1,6 @@
 # ‎
 
-### <p style="width:70%; text-align:left; color:#757575">Software</p>
+### Software
 
 <table table style='table-layout:fixed;width:100%' border="0">
   <th style='width: 65%;'> </th>

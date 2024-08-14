@@ -1,7 +1,7 @@
 
 # ‎
 
-#### Education
+### Education
 
 **2021: Doctor of Engineering**  
 _[Department of Mechanical Engineering](https://www.mb.rub.de/), [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/en)_ <br><br> 
@@ -15,7 +15,7 @@ _[ICAMS](https://www.icams.de/content/), [Ruhr Universität Bochum](https://www.
 _[National Institute of Technology Calicult](https://www.nitc.ac.in/)_ <br><br>  
 
 
-#### Experience
+### Experience
 
 **Research Associate (Feb 2021 - present)**  
 _[Computational Materials Design, Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de/CM)_  
