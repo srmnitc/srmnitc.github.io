@@ -7,7 +7,7 @@ p {
 }
 </style>
 
-## <p style="width:70%; font-size:40px; text-align:left; color:#757575">Publications</p>
+### <p style="width:70%; font-size:40px; text-align:left; color:#757575">Publications</p>
 
 **Harvesting nucleating structures in nanoparticle crystallization: The example of gold, silver, and iron**  
 _A. France-Lanord, S. Menon, and J. Lam_  
