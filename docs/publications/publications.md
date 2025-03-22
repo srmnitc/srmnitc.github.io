@@ -9,6 +9,10 @@ p {
 
 ### Publications
 
+**From electrons to phase diagrams with machine learning potentials using pyiron based automated workflows**  
+_S. Menon, Y. Lysogorskiy, A. L.M. Knoll, N. Leimeroth, M. Poul, M. Qamar, J. Janssen, M. Mrovec, J. Rohrer, K. Albe, J. Behler, R. Drautz, J. Neugebauer_  
+_[npj Computational Materials (10) 1, 2024](https://doi.org/10.1038/s41524-024-01441-0)_ <br><br>
+
 **Harvesting nucleating structures in nanoparticle crystallization: The example of gold, silver, and iron**  
 _A. France-Lanord, S. Menon, and J. Lam_  
 _[The Journal of Chemical Physics (161) 4, 2024](https://doi.org/10.1063/5.0200850)_ <br><br>
