@@ -11,7 +11,7 @@ p {
 
 **Community-Driven Development of Infrastructure Use Cases in NFDI-MatWerk**  
 _A. Azocar Guzman, A. Gedsun, S. Menon, P. Kruzikova, K. Rejiba, Y. Shakeel, N. Siemer, M. Kuehbach, M. Forti, L. Avila Calderon, A. Bayani, A. Saxena, Y. Han, E. Norouzi, J. Olbricht, T. Hammerschmidt, R. Aversa, U. Kerzel, S. Korte-Kerzel, B. Skrotzki, S. Sandfeld, T. Hickel, C. Eberl_  
-_[Proceeding of the 2nd Conference on Research Data Infrastructure (CoRDI), 2024](https://doi.org/10.5281/zenodo.16736133)_ <br><br>
+_[2nd Conference on Research Data Infrastructure (CoRDI), 2024](https://doi.org/10.5281/zenodo.16736133)_ <br><br>
 
 **From electrons to phase diagrams with machine learning potentials using pyiron based automated workflows**  
 _S. Menon, Y. Lysogorskiy, A. L.M. Knoll, N. Leimeroth, M. Poul, M. Qamar, J. Janssen, M. Mrovec, J. Rohrer, K. Albe, J. Behler, R. Drautz, J. Neugebauer_  
