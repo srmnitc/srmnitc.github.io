@@ -17,8 +17,13 @@ _[National Institute of Technology Calicult](https://www.nitc.ac.in/)_ <br><br>
 
 ### Experience
 
-**Research Associate (Feb 2021 - present)**  
-_[Computational Materials Design, Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de/CM)_  
+**Research Group Leader (Apr 2025 - present)**  
+_[Atomistic Simulation of Thermodynamic Properties, Atomistic Modelling and Simulation, ICAMS, Ruhr University Bochum](https://www.icams.de/institute/departments-groups/atomistic-modelling-and-simulation/atomistic-simulation-of-thermodynamic-properties/)_  
+
+Development and application of atomistic simulation methods to calculate thermodynamic properties of materials and construct phase diagrams. A focus on machine learning interatomic potentials, in particular the atomic cluster expansion and its extensions (ACE, GRACE) to deliver ab initio accuracy at greatly reduced computational cost. Another key activity is the development and maintenance of scientific software and computational workflows that integrate every step of the research process in a reproducible and reusable manner. <br><br>
+
+**Research Associate (Feb 2021 - Mar 2025)**  
+_[Computational Materials Design, Max Planck Institute for Sustainable Materials](https://www.mpie.de/CM)_  
 
 Developing software and workflows to enable [FAIR](https://www.go-fair.org/fair-principles/) and reproducible research in Materials Science as part of the [NFDI-MatWerk consortium](https://nfdi-matwerk.de/). My work includes the development of the open-source workflow environment [pyiron](https://pyiron.org/), providing open-source access to software using [conda-forge](https://conda-forge.org/), and organisation of training and workshops. <br><br>
 
