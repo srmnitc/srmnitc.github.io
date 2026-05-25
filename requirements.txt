@@ -1,11 +1,9 @@
-sphinx==5.3.0
 sphinx_rtd_theme
 myst_parser
-furo
+furo>=2024.1.29
 nbsphinx
 sphinx_inline_tabs
 sphinx_copybutton
 sphinx_design
-docutils==0.19
 pydata-sphinx-theme
-jupyter-book
+jupyter-book<2
