@@ -1,6 +1,14 @@
 
 # ‎
 
+### Editorial
+
+**Topical Editor, Physics & Engineering (Mar 2024 - present)**  
+_[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_
+
+Topical editor at JOSS, a peer-reviewed open-access journal for research software across scientific disciplines. <br><br>
+
+
 ### Workshops
 
 **Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  

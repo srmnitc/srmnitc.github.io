@@ -12,7 +12,7 @@ _[ICAMS](https://www.icams.de/content/), [Ruhr Universität Bochum](https://www.
 
 
 **2012: Bachelor of Technology in Mechanical Engineering**  
-_[National Institute of Technology Calicult](https://www.nitc.ac.in/)_ <br><br>  
+_[National Institute of Technology Calicut](https://www.nitc.ac.in/)_ <br><br>  
 
 
 ### Experience
@@ -22,16 +22,21 @@ _[Atomistic Simulation of Thermodynamic Properties, Atomistic Modelling and Simu
 
 Development and application of atomistic simulation methods to calculate thermodynamic properties of materials and construct phase diagrams. A focus on machine learning interatomic potentials, in particular the atomic cluster expansion and its extensions (ACE, GRACE) to deliver ab initio accuracy at greatly reduced computational cost. Another key activity is the development and maintenance of scientific software and computational workflows that integrate every step of the research process in a reproducible and reusable manner. <br><br>
 
-**Research Associate (Feb 2021 - Mar 2025)**  
+**Software Developer (Jan 2025 - present)**  
+_[ACEworks GmbH](https://aceworks.works/), Bochum_  
+
+Development of infrastructure for foundational machine learning interatomic potentials, including the deep-learning-based [GRACE](https://gracemaker.readthedocs.io/) and the [ACE](https://github.com/ICAMS/lammps-user-pace) family, in JAX and TensorFlow. Building customer-facing analysis, benchmarking, and workflow tooling for MLIP deployment in industry. <br><br>
+
+**Research Associate (Feb 2022 - Mar 2025)**  
 _[Computational Materials Design, Max Planck Institute for Sustainable Materials](https://www.mpie.de/CM)_  
 
 Developing software and workflows to enable [FAIR](https://www.go-fair.org/fair-principles/) and reproducible research in Materials Science as part of the [NFDI-MatWerk consortium](https://nfdi-matwerk.de/). My work includes the development of the open-source workflow environment [pyiron](https://pyiron.org/), providing open-source access to software using [conda-forge](https://conda-forge.org/), and organisation of training and workshops. <br><br>
 
 
-**Research Associate (Oct 2020 - Feb 2021)**  
+**Research Associate (Oct 2020 - Feb 2022)**  
 _[Atomistic modelling and simulation, ICAMS, Ruhr Universität Bochum](http://www.icams.de/content/departments/atomistic-modelling-and-simulation/)_
 
-Developing automated tools for testing and validation of material properties predicted by interatomic potentials as part of [DFG project 405621217](https://gepris.dfg.de/gepris/projekt/405621217?context=projekt&task=showDetail&id=405621217&). My work also includes developement of Machine Learning [Atomic Cluster Expansion](https://github.com/ICAMS/lammps-user-pace) interatomic potentials. <br><br>
+Developing automated tools for testing and validation of material properties predicted by interatomic potentials as part of [DFG project 405621217](https://gepris.dfg.de/gepris/projekt/405621217?context=projekt&task=showDetail&id=405621217&). My work also includes development of Machine Learning [Atomic Cluster Expansion](https://github.com/ICAMS/lammps-user-pace) interatomic potentials. <br><br>
 
 
 **Doctoral candidate (Aug 2018 - Oct 2020)**  
