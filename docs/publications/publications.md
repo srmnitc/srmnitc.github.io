@@ -7,19 +7,29 @@ p {
 }
 </style>
 
-### Publications
+::::{tab-set}
+
+:::{tab-item} Publications
+
+**Foundational Machine-Learning Interatomic Potential for Simulating Chemically Complex Ni-Based Superalloys**  
+_A. Vishwakarma, S. Menon, F. Körmann, T. Hammerschmidt, R. Drautz_  
+_[Advanced Engineering Materials (28) 17, e71125, 2026](https://doi.org/10.1002/adem.71125)_ <br><br>
+
+**Ontology-Aligned Structuring and Reuse of Multimodal Materials Data and Workflows Toward Automatic Reproduction**  
+_S. Baghaee Ravari, A. A. Guzman, S. Menon, S. Sandfeld, T. Hickel, M. Stricker_  
+_[Advanced Engineering Materials, e202600008, 2026](https://doi.org/10.1002/adem.202600008)_ <br><br>
+
+**Recycling of NiTi Shape Memory Alloys: Fundamental and Technological Aspects of a Vacuum Induction Melting Processing Route**  
+_S. S. Noorzayee, S. T. Mai, S. Menon, B. G. Sánchez Ortega, R. Drautz, A. Kauffmann, G. Eggeler, J. Frenzel_  
+_[Advanced Engineering Materials (28) 17, e202503197, 2026](https://doi.org/10.1002/adem.202503197)_ <br><br>
+
+**Toward Knowledge-Based Workflows: A Semantic Approach to Atomistic Simulations for Mechanical and Thermodynamic Properties**  
+_A. A. Guzman, H. T. Luu, S. Menon, T. Hickel, N. Merkert, S. Sandfeld_  
+_[Advanced Engineering Materials (28) 14, e70869, 2026](https://doi.org/10.1002/adem.70869)_ <br><br>
 
 **A Lightweight Procedural Layer for Hybrid Experimental–Computational Workflows in Materials Science**  
 _S. Brinckmann, S. Menon, R. Röske, J. Steinhülb, M. Selzer, J. Janssen, T. Hickel, R. Schwaiger, J. Neugebauer_  
 _[Advanced Engineering Materials, e202503176, 2026](https://doi.org/10.1002/adem.202503176)_ <br><br>
-
-**Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties**  
-_A. A. Guzman, H. T. Luu, S. Menon, T. Hickel, N. Merkert, S. Sandfeld_  
-_[Advanced Engineering Materials, 2026](https://doi.org/10.1002/adem.70869)_ <br><br>
-
-**Recycling of NiTi Shape Memory Alloys: Fundamental and Technological Aspects of a Vacuum Induction Melting Processing Route**  
-_S. S. Noorzayee, S. T. Mai, S. Menon, B. G. Sánchez Ortega, R. Drautz, A. Kauffmann, G. Eggeler, J. Frenzel_  
-_[Advanced Engineering Materials, e202503197, 2026](https://doi.org/10.1002/adem.202503197)_ <br><br>
 
 **tools4RDF: A Python toolkit for working with RDF data**  
 _S. Menon, A. A. Guzmán, O. Waseda, S. Sandfeld, T. Hickel_  
@@ -27,7 +37,7 @@ _[Journal of Open Source Software (11) 117, 9482, 2026](https://doi.org/10.21105
 
 **Digital Transformation in Materials Science: A User Journey of Nanoindentation, Image Analysis and Simulations**  
 _H. Tsybenko, S. Menon, F. Chen, A. A. Guzman, K. Grünwald, S. Brinckmann, T. Hickel, T. Dahmen, V. Hofmann, S. Sandfeld, R. Schwaiger_  
-_[Data Science Journal, 2025](https://doi.org/10.5334/dsj-2025-033)_ <br><br>
+_[Data Science Journal (24) 33, 2025](https://doi.org/10.5334/dsj-2025-033)_ <br><br>
 
 **Community-Driven Development of Infrastructure Use Cases in NFDI-MatWerk**  
 _A. Azocar Guzman, A. Gedsun, S. Menon, P. Kruzikova, K. Rejiba, Y. Shakeel, N. Siemer, M. Kuehbach, M. Forti, L. Avila Calderon, A. Bayani, A. Saxena, Y. Han, E. Norouzi, J. Olbricht, T. Hammerschmidt, R. Aversa, U. Kerzel, S. Korte-Kerzel, B. Skrotzki, S. Sandfeld, T. Hickel, C. Eberl_  
@@ -69,16 +79,20 @@ _[The Journal of Chemical Physics (153) 10, 104508, 2020](https://doi.org/10.106
 _S. Menon, G. Diaz Leines, and J. Rogal_  
 _[Journal of Open Source Software (4) 43, 1824, 2019](https://doi.org/10.21105/joss.01824)_ <br><br>
 
+:::
 
-### Preprints
+:::{tab-item} Preprints
 
-_Entries below are currently under review or recently posted; they will be moved into the Publications list once accepted._
+_Manuscripts under review or recently posted. Entries move to Publications once accepted._ <br><br>
+
+**Computing binary alloy phase diagrams with explicit configurational and vibrational entropy**  
+_S. Menon, M. Poul, T. Hickel, J. Neugebauer, R. Drautz_  
+_[arXiv:2607.14795, 2026](https://arxiv.org/abs/2607.14795)_ <br><br>
 
 **Ontology-based knowledge graph infrastructure for interoperable atomistic simulation data**  
 _A. A. Guzman, S. Menon, T. Hickel, S. Sandfeld_  
 _[arXiv:2604.06230, 2026](https://arxiv.org/abs/2604.06230)_ <br><br>
 
-**Ontology-aligned structuring and reuse of multimodal materials data and workflows towards automatic reproduction**  
-_S. Baghaee Ravari, A. A. Guzman, S. Menon, S. Sandfeld, T. Hickel, M. Stricker_  
-_[arXiv:2601.12582, 2026](https://arxiv.org/abs/2601.12582)_ <br><br>
+:::
 
+::::

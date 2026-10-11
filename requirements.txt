@@ -1,9 +1,3 @@
-sphinx_rtd_theme
-myst_parser
-furo>=2024.1.29
-nbsphinx
-sphinx_inline_tabs
-sphinx_copybutton
-sphinx_design
-pydata-sphinx-theme
 jupyter-book<2
+furo>=2024.1.29
+sphinx_design

@@ -1,15 +1,9 @@
 
 # ‎
 
-### Editorial
+::::{tab-set}
 
-**Topical Editor, Physics & Engineering (Mar 2024 - present)**  
-_[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_
-
-Topical editor at JOSS, a peer-reviewed open-access journal for research software across scientific disciplines. <br><br>
-
-
-### Workshops
+:::{tab-item} Workshops
 
 **Machine Learning Modalities for Materials Science 2024: Maximizing High-Throughput Discovery and Machine Learning Efficiency Through Computational Workflows**  
 _14 May 2024  &nbsp; | &nbsp; [Jožef Stefan Institute, Ljubljana, Slovenia](https://www.ijs.si/ijsw/JSI)_  
@@ -43,58 +37,78 @@ The tutorial provided an introduction to python through jupyter notebooks. Furth
 _09-10 Jun 2022  &nbsp; | &nbsp; [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en)_  
 
 The workshop focused on hands-on classes and tutorials covering the complete process from high-throughput electronic structure calculations to the computation of phase diagrams using pyiron. Day one provided an in-depth look at automated workflows for DFT data generation. Day two dove into the parameterization and validation of interatomic potentials using DFT reference data. Finally, on day three, the methods and tools for computing thermodynamic properties and phase diagrams were introduced.
-The videos of my tutorials are available [here](http://pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html). <br>
+The videos of my tutorials are available [here](https://workshop.pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html). <br>
 
-[Webpage](https://web.archive.org/web/20230819214646/https://potentials.rub.de/2022/index.php)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.8145186)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron/potentials-workshop-2022)  &nbsp; | &nbsp; [Documentation](http://workshop.pyiron.org/potentials-workshop-2022/intro.html) &nbsp; | &nbsp; [Videos](https://workshop.pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html) <br><br>
+[Webpage](https://web.archive.org/web/20230819214646/https://potentials.rub.de/2022/index.php)  &nbsp; | &nbsp; [DOI](https://doi.org/10.5281/zenodo.8145186)  &nbsp; | &nbsp; [Repository](https://github.com/pyiron/potentials-workshop-2022)  &nbsp; | &nbsp; [Documentation](https://workshop.pyiron.org/potentials-workshop-2022/intro.html) &nbsp; | &nbsp; [Videos](https://workshop.pyiron.org/potentials-workshop-2022/phase_diagram/Intro.html) <br><br>
 
 
 <iframe width="420" height="237"
 src="https://www.youtube.com/embed/CESz9J_AJfw">
 </iframe>
 
-### Teaching
+:::
+
+:::{tab-item} Teaching
+
+**Data Science with Python**  
+_Jun - Jul 2025  &nbsp; | &nbsp; [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/en)_ 
+
+Course for bachelor students in Materials Science. Topics covered Python for data analysis, data cleaning and preprocessing, reproducible workflows, supervised and unsupervised learning, deep and active learning, and generative AI, applied to materials science datasets.<br><br>
 
 **Application and Implementation of Electronic Structure Methods**  
 _05-07 Feb 2024  &nbsp; | &nbsp; [Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de)_ 
 
-Co-lecturer with Prof. Neugebauer. Sessions aimed at developing python code to solve Schrodinger equation for a number of example systems in 1, 2, and 3 dimensions. Additionally managed a JupyterHub instance set up for the course.<br><br>
+Co-lecturer with Prof. Neugebauer. Sessions aimed at developing python code to solve the Schrödinger equation for a number of example systems in 1, 2, and 3 dimensions. Additionally managed a JupyterHub instance set up for the course.<br><br>
 
 **Introduction to Quantum Mechanics in Solid-State Physics**  
-_Oct 2022 - Apr 2023  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_ 
+_Oct 2022 - Apr 2023  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_ 
 
 Exercise class for graduate course Materials Science and Simulation. Topics include fundamental quantum mechanics, interpretation of wave functions, hydrogen atom, harmonic oscillator and lattice vibrations.<br><br>
 
 **Application and Implementation of Electronic Structure Methods**  
 _06-08 Feb 2023  &nbsp; | &nbsp; [Max-Planck-Institut für Eisenforschung GmbH, Düsseldorf](https://www.mpie.de)_ 
 
-Tutorial sessions aimed at developing python code to solve Schrodinger equation for a number of example systems in 1, 2, and 3 dimensions. Additionally managed a JupyterHub instance set up for the course.<br><br>
+Tutorial sessions aimed at developing python code to solve the Schrödinger equation for a number of example systems in 1, 2, and 3 dimensions. Additionally managed a JupyterHub instance set up for the course.<br><br>
 
 **ICAMS Graduate School**  
-_01-02 Oct 2020  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_ 
+_01-02 Oct 2020  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_ 
 
-Tutorials as part of the ICAMS graduate school course on atomistic modelling. Topics convered included molecular dynamics simulations using LAMMPS to calculate properties such as cohesive energy, stress, radial distribution function, and specific heat. <br><br>
+Tutorials as part of the ICAMS graduate school course on atomistic modelling. Topics covered included molecular dynamics simulations using LAMMPS to calculate properties such as cohesive energy, stress, radial distribution function, and specific heat. <br><br>
 
 **Materials Modelling module**  
 _16-19 Nov 2020  &nbsp; | &nbsp; [Department of Materials, Oxford University](https://www.materials.ox.ac.uk/research/researchareas/computational-materials-modelling.html)_  
 
-Tutorials as part of the materials modelling module for bachelor students. Topics convered included molecular dynamics simulations using LAMMPS to calculate properties such as cohesive energy, stress, radial distribution function, and specific heat. Additionally calculation of phase diagrams using CALPHAD method was also part of the course. <br><br>
+Tutorials as part of the materials modelling module for bachelor students. Topics covered included molecular dynamics simulations using LAMMPS to calculate properties such as cohesive energy, stress, radial distribution function, and specific heat. Additionally calculation of phase diagrams using CALPHAD method was also part of the course. <br><br>
 
 **Introduction to Python**  
-_31 Jan 2020  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_  
+_31 Jan 2020  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_  
 
 One day lecture as part of graduate course Application and Implementation of Electronic Structure Methods. An introduction to python starting from defining variables to creating classes with a focus on scientific programming. <br><br>
 
 **Atomistic simulation methods in materials science**  
-_Oct 2018 - Apr 2019  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_  
+_Oct 2018 - Apr 2019  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_  
 Exercise class for graduate course Materials Science and Simulation. Topics include Empirical and semi-empirical potentials for ionic, covalent and metallic materials. Thermodynamic ensembles, Molecular dynamics and Monte Carlo methods, including calculation of the various observables. <br><br>
 
 **Quantum mechanics in materials science**  
-_Apr 2018 - Oct 2018  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_  
+_Apr 2018 - Oct 2018  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_  
 Exercise class for graduate course Materials Science and Simulation. Topics include Schrödinger equation, Many electron problem, Hartree/Hartree-Fock, Density-Functional Theory, Overview of basis sets, plane waves vs local orbitals, pseudopotentials, and tight-binding approximation. <br><br>
 
 **Advanced atomistic simulation methods**  
-_Oct 2017 - Apr 2018  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](http://www.icams.de)_  
+_Oct 2017 - Apr 2018  &nbsp; | &nbsp; [ICAMS, Ruhr Universität Bochum](https://www.icams.de)_  
 Exercise class for graduate course Materials Science and Simulation. Topics include the derivation of molecular dynamics algorithms in various ensembles, biased sampling, configurational biased Monte Carlo, Wang-Landau, and parallel tempering. Furthermore methods to accelerate the dynamics such as hyperdynamics, bond boost method, parallel replica molecular dynamics, temperature accelerated molecular dynamics were considered. Further topics include Transition State Theory, Transition State search: dimer method, nudged elastic band method, string method, drag method, transition path sampling, kinetic Monte Carlo, lattice approximation, adaptive kinetic Monte Carlo, and free energy calculations. <br><br>
+
+:::
+
+:::{tab-item} Editorial
+
+**Topical Editor, Physics & Engineering (Mar 2024 - present)**  
+_[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_
+
+Topical editor at JOSS, a peer-reviewed open-access journal for research software across scientific disciplines. <br><br>
+
+:::
+
+::::
 
 <style type="text/css">
 p {

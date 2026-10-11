@@ -1,6 +1,69 @@
 # ‎
 
-### Software
+::::{tab-set}
+
+:::{tab-item} Thermodynamics & MLIPs
+
+<table table style='table-layout:fixed;width:100%' border="0">
+  <th style='width: 65%;'> </th>
+  <th style='width: 5%;'> </th>
+<tr>
+  <td>    
+    <p style="width:70%; font-size:20px; text-align:left;"><b> calphy </b></p>
+    <p style="text-align:justify;"> calphy is a Python library and command line interface for free energy calculations. calphy provides fully automated routines for calculation of free energy using interatomic potentials; which in turn can be used to calculate complex thermodynamic properties such as melting temperature, specific heat and phase diagrams. </p>
+    <a href="https://github.com/ICAMS/calphy">Repository</a> &nbsp; | &nbsp;
+    <a href="https://calphy.org/">Docs</a> &nbsp; | &nbsp;
+    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103801">Publication</a>
+  </td>
+  <td> </td>
+  <td>
+    <img src="https://calphy.org/_static/calphy_logo.png" width="100%" align="right">
+  </td>
+</tr>
+</table>
+
+<br><br>
+
+<table table style='table-layout:fixed;width:100%' border="0">
+  <th style='width: 65%;'> </th>
+  <th style='width: 5%;'> </th>
+<tr>
+  <td>    
+    <p style="width:70%; font-size:20px; text-align:left;"><b> pace </b></p>
+    <p style="text-align:justify;"> PACE is the performant C++ implementation of the Atomic Cluster Expansion method suitable for large scale atomic simulations using LAMMPS. </p>
+    <a href="https://github.com/ICAMS/lammps-user-pace">Repository</a> &nbsp; | &nbsp;
+    <a href="https://doi.org/10.1038/s41524-021-00559-9">Publication</a>
+  </td>
+  <td> </td>
+  <td>
+    <img src="https://opengraph.githubassets.com/924f5928d77696be8398c46bd721c963c9df7921c117ea5a1e1ca54fc9c77a02/ICAMS/lammps-user-pace" width="70%" align="center">
+  </td>
+</tr>
+</table>
+
+<br><br>
+
+<table table style='table-layout:fixed;width:100%' border="0">
+  <th style='width: 65%;'> </th>
+  <th style='width: 5%;'> </th>
+<tr>
+  <td>    
+    <p style="width:70%; font-size:20px; text-align:left;"><b> pylammpsmpi </b></p>
+    <p style="text-align:justify;"> pylammpsmpi is a python module which enables using the atomistic simulation code LAMMPS from jupyter notebooks in a parallel environment. pylammpsmpi can also be deployed on queueing systems. </p>
+    <a href="https://github.com/pyiron/pylammpsmpi">Repository</a> &nbsp; | &nbsp;
+    <a href="https://pylammpsmpi.readthedocs.io/en/latest/">Docs</a> &nbsp; | &nbsp;
+    <a href="https://doi.org/10.5281/zenodo.5034216">Zenodo</a>
+  </td>
+  <td> </td>
+  <td>
+    <img src="https://avatars.githubusercontent.com/u/25691954?s=200&v=4" width="50%" align="center">
+  </td>
+</tr>
+</table>
+
+:::
+
+:::{tab-item} Structure analysis
 
 <table table style='table-layout:fixed;width:100%' border="0">
   <th style='width: 65%;'> </th>
@@ -29,9 +92,9 @@
 <tr>
   <td>    
     <p style="width:70%; font-size:20px; text-align:left;"><b> pyscal3 </b></p>
-    <p style="text-align:justify;"> pyscal3 is a more robust, and even faster implementation of the original pyscal code. It is step towards pyscal being a code not just for local structural environment, but for complete atomic structure manipulation. pyscal3 is memory efficient and can handle tens of thousands of atoms. It is currently under development. </p>
+    <p style="text-align:justify;"> pyscal3 is a more robust, and even faster implementation of the original pyscal code. It is a step towards pyscal being a code not just for local structural environment, but for complete atomic structure manipulation. pyscal3 is memory efficient and can handle tens of thousands of atoms. It is currently under development. </p>
     <a href="https://github.com/pyscal/pyscal3">Repository</a> &nbsp; | &nbsp;
-    <a href="https://pyscal.org/en/v3/">Docs</a> &nbsp;
+    <a href="https://v3.pyscal.org/en/latest/">Docs</a> &nbsp;
   </td>
   <td> </td>
   <td>
@@ -40,7 +103,9 @@
 </tr>
 </table>
 
-<br><br>
+:::
+
+:::{tab-item} Knowledge graphs
 
 <table table style='table-layout:fixed;width:100%' border="0">
   <th style='width: 65%;'> </th>
@@ -48,7 +113,7 @@
 <tr>
   <td>    
     <p style="width:70%; font-size:20px; text-align:left;"><b> atomRDF </b></p>
-    <p style="text-align:justify;"> atomRDF is a python tool for ontology-based creation, manipulation, and quering of structures. pyscal_rdf is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under activate development. </p>
+    <p style="text-align:justify;"> atomRDF is a python tool for ontology-based creation, manipulation, and querying of structures. atomRDF is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under active development. </p>
     <a href="https://github.com/pyscal/atomrdf">Repository</a> &nbsp; | &nbsp;
     <a href="https://rdf.pyscal.org/en/latest/">Docs</a> &nbsp; | &nbsp;
     <a href="https://github.com/Materials-Data-Science-and-Informatics/cmso-ontology">Ontology</a> &nbsp; | &nbsp;
@@ -69,8 +134,9 @@
 <tr>
   <td>    
     <p style="width:70%; font-size:20px; text-align:left;"><b> tools4RDF </b></p>
-    <p style="text-align:justify;"> tools4RDF is a python toolkit for working with RDF data, providing utilities for building, querying, and visualising knowledge graphs of materials science data. It complements atomRDF and powers downstream tooling such as the kg.fair-workflows.org portal. </p>
-    <a href="https://github.com/pyscal/tools4rdf">Repository</a> &nbsp; | &nbsp;
+    <p style="text-align:justify;"> tools4RDF is a python toolkit for working with RDF data, providing utilities for building, querying, and visualising knowledge graphs of materials science data. It complements atomRDF and powers downstream tooling such as the atomkg.pyscal.org portal. </p>
+    <a href="https://github.com/OCDO/tools4RDF">Repository</a> &nbsp; | &nbsp;
+    <a href="https://tools4rdf.readthedocs.io/en/latest/">Docs</a> &nbsp; | &nbsp;
     <a href="https://doi.org/10.21105/joss.09482">Publication</a>
   </td>
   <td> </td>
@@ -86,9 +152,9 @@
   <th style='width: 5%;'> </th>
 <tr>
   <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> kg.fair-workflows.org </b></p>
+    <p style="width:70%; font-size:20px; text-align:left;"><b> atomkg.pyscal.org </b></p>
     <p style="text-align:justify;"> A deployed interactive knowledge-graph portal for computational materials science data, featuring force-directed visualisation, composition-based filtering, and an experimental LLM-driven natural-language to SPARQL interface (powered by Groq and tools4RDF) for agentic exploration of simulation data. </p>
-    <a href="https://kg.fair-workflows.org/">Live site</a> &nbsp; | &nbsp;
+    <a href="https://atomkg.pyscal.org/">Live site</a> &nbsp; | &nbsp;
     <a href="https://arxiv.org/abs/2604.06230">Methodology preprint</a>
   </td>
   <td> </td>
@@ -97,68 +163,12 @@
 </tr>
 </table>
 
-<br><br>
+:::
 
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> calphy </b></p>
-    <p style="text-align:justify;"> calphy is a Python library and command line interface for free energy calculations. calphy provides fully automated routines for calculation of free energy using interatomic potentials; which in turn can be used to calculate complex thermodynamic properties such as melting temperature, specific heat and phase diagrams. </p>
-    <a href="https://github.com/ICAMS/calphy">Repository</a> &nbsp; | &nbsp;
-    <a href="https://calphy.org/en/latest/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103801">Publication</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://calphy.org/en/latest/_static/calphy_logo.png" width="100%" align="right">
-  </td>
-</tr>
-</table>
-
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pylammpsmpi </b></p>
-    <p style="text-align:justify;"> pylammpsmpi is a python module which enables using the atomistic simulation code LAMMPS from jupyter notebooks in a parallel environment. pylammpsmpi can also be deployed on queueing systems. </p>
-    <a href="https://github.com/pyiron/pylammpsmpi">Repository</a> &nbsp; | &nbsp;
-    <a href="https://pylammpsmpi.readthedocs.io/en/latest/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.5281/zenodo.5034216">Zenodo</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://avatars.githubusercontent.com/u/25691954?s=200&v=4" width="50%" align="center">
-  </td>
-</tr>
-</table>
-
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pace </b></p>
-    <p style="text-align:justify;"> PACE is the perfomant C++ implementation of the Atomic Cluster Expansion method suitable for large scale atomic simulations using LAMMPS. </p>
-    <a href="https://github.com/ICAMS/lammps-user-pace">Repository</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.1038/s41524-021-00559-9">Publication</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://opengraph.githubassets.com/924f5928d77696be8398c46bd721c963c9df7921c117ea5a1e1ca54fc9c77a02/ICAMS/lammps-user-pace" width="70%" align="center">
-  </td>
-</tr>
-</table>
+::::
 
 <style type="text/css">
 p {
    margin: 2px 0;
 }
 </style>
-
