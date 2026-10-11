@@ -1,0 +1,98 @@
+/* Tighter paragraph spacing for list-style entries (publications, experience, teaching) */
+article section:not(#sarath-menon) p {
+  margin: 2px 0;
+}
+
+/* Page titles exist for the browser tab and search results, but stay visually hidden */
+article h1 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Except on the landing page, where the name is the heading */
+article section#sarath-menon > h1 {
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+  margin: 3rem 0 1rem;
+  font-size: 2.5em;
+  font-weight: 300;
+  color: #757575;
+}
+
+/* Cards (software, workshops) */
+.item-card {
+  margin-bottom: 1.25rem;
+}
+.item-card .sd-card-title {
+  font-size: 1.2em;
+}
+.sw-logo {
+  float: right;
+  max-height: 48px;
+  max-width: 120px;
+  margin: 0 0 0.5rem 1rem;
+}
+.item-card .sd-card-footer p {
+  margin: 0;
+}
+
+/* Cards with embedded videos */
+.item-card iframe {
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+  margin-top: 0.75rem;
+}
+
+/* Experience timeline (needs [role=main] to beat furo's .container padding reset) */
+[role=main] .timeline {
+  border-left: 2px solid var(--color-background-border);
+  margin-left: 0.4rem;
+  padding-left: 1.5rem;
+}
+.tl-entry {
+  position: relative;
+  margin-bottom: 1.75rem;
+}
+.tl-entry::before {
+  content: "";
+  position: absolute;
+  left: calc(-1.5rem - 6px);
+  top: 0.35em;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--color-background-primary);
+  border: 2px solid var(--color-foreground-muted);
+}
+.tl-entry.tl-current::before {
+  background: var(--color-brand-primary);
+  border-color: var(--color-brand-primary);
+}
+.tl-date {
+  font-size: 0.85em;
+  color: var(--color-foreground-muted);
+  letter-spacing: 0.02em;
+}
+
+/* Collapsible topic lists in teaching */
+article details {
+  margin: 0.25rem 0 0;
+  color: var(--color-foreground-secondary);
+}
+article details summary {
+  cursor: pointer;
+  font-size: 0.9em;
+  color: var(--color-brand-content);
+}

@@ -1,3 +1,4 @@
 jupyter-book<2
 furo>=2024.1.29
 sphinx_design
+sphinxext-opengraph

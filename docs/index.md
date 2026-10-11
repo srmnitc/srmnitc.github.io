@@ -1,10 +1,11 @@
-# ‎
+---
+og:description: Group leader at ICAMS, Ruhr University Bochum. Free energies and phase diagrams from atomistic simulations and machine learning interatomic potentials (ACE, GRACE), and knowledge graphs for materials science data.
+myst:
+  html_meta:
+    description: Group leader at ICAMS, Ruhr University Bochum. Free energies and phase diagrams from atomistic simulations and machine learning interatomic potentials (ACE, GRACE), and knowledge graphs for materials science data.
+---
 
-<br>
-<br>
-<br>
-
-<p style="width:70%; font-size:40px; text-align:left; color:#757575">Sarath Menon</p>
+# Sarath Menon
 
 ```{image} _static/avatar.jpg
    :align: right

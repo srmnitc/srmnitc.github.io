@@ -1,174 +1,99 @@
-# ‎
+# Software
 
-::::{tab-set}
+:::::{tab-set}
 
-:::{tab-item} Thermodynamics & MLIPs
+::::{tab-item} MLIPs & thermodynamics
 
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> calphy </b></p>
-    <p style="text-align:justify;"> calphy is a Python library and command line interface for free energy calculations. calphy provides fully automated routines for calculation of free energy using interatomic potentials; which in turn can be used to calculate complex thermodynamic properties such as melting temperature, specific heat and phase diagrams. </p>
-    <a href="https://github.com/ICAMS/calphy">Repository</a> &nbsp; | &nbsp;
-    <a href="https://calphy.org/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103801">Publication</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://calphy.org/_static/calphy_logo.png" width="100%" align="right">
-  </td>
-</tr>
-</table>
+:::{card} GRACE
+:class-card: item-card
 
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pace </b></p>
-    <p style="text-align:justify;"> PACE is the performant C++ implementation of the Atomic Cluster Expansion method suitable for large scale atomic simulations using LAMMPS. </p>
-    <a href="https://github.com/ICAMS/lammps-user-pace">Repository</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.1038/s41524-021-00559-9">Publication</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://opengraph.githubassets.com/924f5928d77696be8398c46bd721c963c9df7921c117ea5a1e1ca54fc9c77a02/ICAMS/lammps-user-pace" width="70%" align="center">
-  </td>
-</tr>
-</table>
-
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pylammpsmpi </b></p>
-    <p style="text-align:justify;"> pylammpsmpi is a python module which enables using the atomistic simulation code LAMMPS from jupyter notebooks in a parallel environment. pylammpsmpi can also be deployed on queueing systems. </p>
-    <a href="https://github.com/pyiron/pylammpsmpi">Repository</a> &nbsp; | &nbsp;
-    <a href="https://pylammpsmpi.readthedocs.io/en/latest/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.5281/zenodo.5034216">Zenodo</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://avatars.githubusercontent.com/u/25691954?s=200&v=4" width="50%" align="center">
-  </td>
-</tr>
-</table>
-
+GRACE (Graph Atomic Cluster Expansion) extends ACE to multi-component materials and graph architectures, with foundation models covering a broad range of chemistries. The gracemaker package handles fitting, uncertainty estimates, and export to LAMMPS, including the Kokkos pair styles.
++++
+[Repository](https://github.com/ICAMS/grace-tensorpotential) &nbsp;|&nbsp; [Docs](https://gracemaker.readthedocs.io/) &nbsp;|&nbsp; [Foundation models](https://huggingface.co/AMS-ICAMS-RUB/grace-foundation-models) &nbsp;|&nbsp; [Publication](https://doi.org/10.1103/PhysRevX.14.021036)
 :::
 
-:::{tab-item} Structure analysis
+:::{card} calphy
+:class-card: item-card
 
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pyscal </b></p>
-    <p style="text-align:justify;"> pyscal is a python module for the calculation of local atomic structural environments including Steinhardt’s bond orientational order parameters during post-processing of atomistic simulation data. The core functionality of pyscal is written in C++ with python wrappers using pybind11 which allows for fast calculations with possibilities for easy expansion in python.</p>
-    <a href="https://github.com/pyscal/pyscal">Repository</a> &nbsp; | &nbsp;
-    <a href="https://pyscal.org/en/latest/index.html">Docs</a> &nbsp; | &nbsp;
-    <a href="https://joss.theoj.org/papers/10.21105/joss.01824">Publication</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.5281/zenodo.3522376">Zenodo</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://pyscal.org/en/latest/_images/pyscal_v2_logo_1.png" width="100%" align="right">
-  </td>
-</tr>
-</table>
+<img src="https://calphy.org/_static/calphy_logo.png" class="sw-logo" alt="calphy logo">
 
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> pyscal3 </b></p>
-    <p style="text-align:justify;"> pyscal3 is a more robust, and even faster implementation of the original pyscal code. It is a step towards pyscal being a code not just for local structural environment, but for complete atomic structure manipulation. pyscal3 is memory efficient and can handle tens of thousands of atoms. It is currently under development. </p>
-    <a href="https://github.com/pyscal/pyscal3">Repository</a> &nbsp; | &nbsp;
-    <a href="https://v3.pyscal.org/en/latest/">Docs</a> &nbsp;
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://pyscal.org/en/latest/_images/pyscal_v3_logo_1.png" width="100%" align="right">
-  </td>
-</tr>
-</table>
-
+calphy is a Python library and command line interface for free energy calculations. calphy provides fully automated routines for calculation of free energy using interatomic potentials, which in turn can be used to calculate complex thermodynamic properties such as melting temperature, specific heat and phase diagrams.
++++
+[Repository](https://github.com/ICAMS/calphy) &nbsp;|&nbsp; [Docs](https://calphy.org/) &nbsp;|&nbsp; [Publication](https://doi.org/10.1103/PhysRevMaterials.5.103801)
 :::
 
-:::{tab-item} Knowledge graphs
+:::{card} pace
+:class-card: item-card
 
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> atomRDF </b></p>
-    <p style="text-align:justify;"> atomRDF is a python tool for ontology-based creation, manipulation, and querying of structures. atomRDF is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under active development. </p>
-    <a href="https://github.com/pyscal/atomrdf">Repository</a> &nbsp; | &nbsp;
-    <a href="https://rdf.pyscal.org/en/latest/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://github.com/Materials-Data-Science-and-Informatics/cmso-ontology">Ontology</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.5281/zenodo.8146527">Zenodo</a>
-  </td>
-  <td> </td>
-  <td>
-    <img src="https://atomrdf.pyscal.org/en/latest/_static/logo.png" width="100%" align="right">
-  </td>
-</tr>
-</table>
+PACE is the performant C++ implementation of the Atomic Cluster Expansion method suitable for large scale atomic simulations using LAMMPS.
++++
+[Repository](https://github.com/ICAMS/lammps-user-pace) &nbsp;|&nbsp; [Publication](https://doi.org/10.1038/s41524-021-00559-9)
+:::
 
-<br><br>
+:::{card} pylammpsmpi
+:class-card: item-card
 
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> tools4RDF </b></p>
-    <p style="text-align:justify;"> tools4RDF is a python toolkit for working with RDF data, providing utilities for building, querying, and visualising knowledge graphs of materials science data. It complements atomRDF and powers downstream tooling such as the atomkg.pyscal.org portal. </p>
-    <a href="https://github.com/OCDO/tools4RDF">Repository</a> &nbsp; | &nbsp;
-    <a href="https://tools4rdf.readthedocs.io/en/latest/">Docs</a> &nbsp; | &nbsp;
-    <a href="https://doi.org/10.21105/joss.09482">Publication</a>
-  </td>
-  <td> </td>
-  <td>
-  </td>
-</tr>
-</table>
+<img src="https://avatars.githubusercontent.com/u/25691954?s=200&v=4" class="sw-logo" alt="pyiron logo">
 
-<br><br>
-
-<table table style='table-layout:fixed;width:100%' border="0">
-  <th style='width: 65%;'> </th>
-  <th style='width: 5%;'> </th>
-<tr>
-  <td>    
-    <p style="width:70%; font-size:20px; text-align:left;"><b> atomkg.pyscal.org </b></p>
-    <p style="text-align:justify;"> A deployed interactive knowledge-graph portal for computational materials science data, featuring force-directed visualisation, composition-based filtering, and an experimental LLM-driven natural-language to SPARQL interface (powered by Groq and tools4RDF) for agentic exploration of simulation data. </p>
-    <a href="https://atomkg.pyscal.org/">Live site</a> &nbsp; | &nbsp;
-    <a href="https://arxiv.org/abs/2604.06230">Methodology preprint</a>
-  </td>
-  <td> </td>
-  <td>
-  </td>
-</tr>
-</table>
-
+pylammpsmpi is a python module which enables using the atomistic simulation code LAMMPS from jupyter notebooks in a parallel environment. pylammpsmpi can also be deployed on queueing systems.
++++
+[Repository](https://github.com/pyiron/pylammpsmpi) &nbsp;|&nbsp; [Docs](https://pylammpsmpi.readthedocs.io/en/latest/) &nbsp;|&nbsp; [Zenodo](https://doi.org/10.5281/zenodo.5034216)
 :::
 
 ::::
 
-<style type="text/css">
-p {
-   margin: 2px 0;
-}
-</style>
+::::{tab-item} Structure analysis
+
+:::{card} pyscal
+:class-card: item-card
+
+<img src="https://pyscal.org/en/latest/_images/pyscal_v2_logo_1.png" class="sw-logo" alt="pyscal logo">
+
+pyscal is a python module for the calculation of local atomic structural environments including Steinhardt’s bond orientational order parameters during post-processing of atomistic simulation data. The core functionality of pyscal is written in C++ with python wrappers using pybind11 which allows for fast calculations with possibilities for easy expansion in python.
++++
+[Repository](https://github.com/pyscal/pyscal) &nbsp;|&nbsp; [Docs](https://pyscal.org/en/latest/index.html) &nbsp;|&nbsp; [Publication](https://joss.theoj.org/papers/10.21105/joss.01824) &nbsp;|&nbsp; [Zenodo](https://doi.org/10.5281/zenodo.3522376)
+:::
+
+:::{card} pyscal3
+:class-card: item-card
+
+<img src="https://pyscal.org/en/latest/_images/pyscal_v3_logo_1.png" class="sw-logo" alt="pyscal3 logo">
+
+pyscal3 is a more robust, and even faster implementation of the original pyscal code. It is a step towards pyscal being a code not just for local structural environment, but for complete atomic structure manipulation. pyscal3 is memory efficient and can handle tens of thousands of atoms. It is currently under development.
++++
+[Repository](https://github.com/pyscal/pyscal3) &nbsp;|&nbsp; [Docs](https://v3.pyscal.org/en/latest/)
+:::
+
+::::
+
+::::{tab-item} Knowledge graphs
+
+:::{card} atomRDF
+:class-card: item-card
+
+<img src="https://atomrdf.pyscal.org/en/latest/_static/logo.png" class="sw-logo" alt="atomRDF logo">
+
+atomRDF is a python tool for ontology-based creation, manipulation, and querying of structures. atomRDF is powered by the Computational Material Sample Ontology (CMSO) and pyscal3. The package is currently under active development.
++++
+[Repository](https://github.com/pyscal/atomrdf) &nbsp;|&nbsp; [Docs](https://rdf.pyscal.org/en/latest/) &nbsp;|&nbsp; [Ontology](https://github.com/Materials-Data-Science-and-Informatics/cmso-ontology) &nbsp;|&nbsp; [Zenodo](https://doi.org/10.5281/zenodo.8146527)
+:::
+
+:::{card} tools4RDF
+:class-card: item-card
+
+tools4RDF is a python toolkit for working with RDF data, providing utilities for building, querying, and visualising knowledge graphs of materials science data. It complements atomRDF and powers downstream tooling such as the atomkg.pyscal.org portal.
++++
+[Repository](https://github.com/OCDO/tools4RDF) &nbsp;|&nbsp; [Docs](https://tools4rdf.readthedocs.io/en/latest/) &nbsp;|&nbsp; [Publication](https://doi.org/10.21105/joss.09482)
+:::
+
+:::{card} atomkg.pyscal.org
+:class-card: item-card
+
+A deployed interactive knowledge-graph portal for computational materials science data, featuring force-directed visualisation, composition-based filtering, and an experimental LLM-driven natural-language to SPARQL interface (powered by Groq and tools4RDF) for agentic exploration of simulation data.
++++
+[Live site](https://atomkg.pyscal.org/) &nbsp;|&nbsp; [Methodology preprint](https://arxiv.org/abs/2604.06230)
+:::
+
+::::
+
+:::::

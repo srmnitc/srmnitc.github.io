@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/en/stable/customize/config.html
 
-title: "sarathmenon"
+title: "Sarath Menon"
 copyright: "2026"
 
 execute:
@@ -37,6 +37,16 @@ sphinx:
       light_logo: logo_light.png
       dark_logo: logo_dark.png
       sidebar_hide_name: true
+    html_css_files: ["custom.css"]
+    html_favicon: docs/_static/favicon.svg
+    # Link previews and meta description (sphinxext-opengraph)
+    ogp_site_url: https://sarathmenon.me/
+    ogp_image: https://sarathmenon.me/_static/avatar.jpg
+    ogp_type: website
+    ogp_enable_meta_description: true
+    ogp_social_cards:
+      enable: false
 
   extra_extensions:
   - 'sphinx_design'
+  - 'sphinxext.opengraph'
